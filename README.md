@@ -13,10 +13,7 @@ I						出品	I
 
 虽然不是本程序的主要功能，且本程序此功能开发者对此不知情、不建议，由此所造成的一切后果本程序不负责：或许您大概可以稍微使用其来对您的各好友及他们的家人进行和谐友爱的问候，增进您们之间的真挚友谊。
 
-详细可以观看测试视频
-
-- [地址1](demo.mp4)
-- [地址2](https://photovideo.photo.qq.com/1074_0b2eu4bkoaac5maeomqh4nptbjyeu6tqfj2a.f0.mp4?dis_k=a510a74563dc4b66bb907f17df93db06&dis_t=1654443812&vuin=2507917746)
+详细可以观看[测试视频](https://e0selmy4v.github.io/everyone-abuse/demo.mp4)
 
 # 声明
 
